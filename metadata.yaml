@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39964'
     url: http://www.gutenberg.org/2009/agents/39964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39323#A-Pilgrim-MaidA-Story-of-Plymouth-Colony-in-1620
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
 identifiers:
