@@ -1,0 +1,26 @@
+_repo: A-Pilgrim-MaidA-Story-of-Plymouth-Colony-in-1620_39323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39323-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taggart, Marion Ames
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '39964'
+    url: http://www.gutenberg.org/2009/agents/39964
+description: ''
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691 -- Juvenile fiction'
+title: 'A Pilgrim Maid: A Story of Plymouth Colony in 1620'
+url: http://www.gutenberg.org/ebooks/39323
